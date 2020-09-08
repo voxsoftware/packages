@@ -1,6 +1,6 @@
 {
     "name": "kowix-dist",
-    "version": "3.5.1",
+    "version": "3.5.2",
     "kawix": {
         "std": "std0.9.3",
         "dhs": "dhs0.9.5",
