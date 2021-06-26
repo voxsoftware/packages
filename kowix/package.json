@@ -2,7 +2,7 @@
     "name": "kowix-dist",
     "version": "3.8.0",
     "kawix": {
-        "std": "std1.0.1",
+        "std": "std1.0.3",
         "dhs": "dhs1.0.1",
         "kivi": "v0.9.0",
         "gix": "gix1.0.1"
