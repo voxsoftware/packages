@@ -3,7 +3,7 @@
     "version": "3.8.3",
     "kawix": {
         "std": "std1.0.5",
-        "dhs": "dhs1.0.1",
+        "dhs": "dhs1.0.2",
         "kivi": "v0.9.0",
         "gix": "gix1.0.1"
     }
